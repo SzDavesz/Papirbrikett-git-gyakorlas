@@ -2,7 +2,8 @@ body{
   background-image: url('hatterkep.png');
   padding: 15px;
   color: blue;
-  line-height: 110%;
+  line-height: 125%;
+  color: #3F4F5F;
 }
 
 h1{

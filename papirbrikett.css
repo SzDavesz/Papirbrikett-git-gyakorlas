@@ -16,6 +16,8 @@ h1, h2{
 }
 
 .bevezeto{
+  border-top: 1px solid #3F4F5F;
+  border-bottom: 1px solid #3F4F5F;
   margin: 10px 200px;
   text-align: center;
   background-color: #EBEBEB;
